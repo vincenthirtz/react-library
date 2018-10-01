@@ -1,0 +1,18 @@
+//  IDE
+.vscode
+
+// debug
+lerna-debug.log
+
+// Jest
+coverage
+jest_0
+
+dist
+tmp
+template
+
+node_modules
+lib
+
+
