@@ -14,7 +14,7 @@ class Button extends Component {
       ...props
     } = this.props;
     const cls = classNames(
-      "react-ui-button",
+      "react-button",
       active && "button-active",
       disabled && "button-disabled",
       circle && "button-circle"
