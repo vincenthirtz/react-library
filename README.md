@@ -6,6 +6,7 @@
 
 ```
 npm install
+npm install -g lerna
 lerna bootstrap 
 lerna run compile
 npm run storybook
